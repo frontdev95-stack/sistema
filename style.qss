@@ -1,0 +1,108 @@
+/* ================================================= */
+/* Estilos Generales y Colores */
+/* ================================================= */
+QMainWindow {
+    background-color: #f7f9fc; /* Fondo claro */
+    color: #000;
+}
+
+QTabWidget::pane { /* Contenedor principal de las pestañas */
+    border: 1px solid #c8d0e0;
+    background-color: white; 
+    border-radius: 4px;
+      color: #000;
+}
+
+QTabWidget::tab-bar {
+    left: 5px; /* Mueve las pestañas un poco hacia la derecha */
+      color: #000;
+}
+
+/* Estilo de la Pestaña NO seleccionada */
+QTabBar::tab {
+    background: #e8ebf1; 
+    border: 1px solid #c8d0e0;
+    border-bottom: none;
+    padding: 8px 15px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    min-width: 120px;
+      color: #000;
+}
+
+/* Estilo de la Pestaña SELECCIONADA */
+QTabBar::tab:selected {
+    background: white;
+    border-color: #c8d0e0;
+    border-bottom-color: white; /* "Oculta" el borde inferior para que se fusione con el QTabWidget::pane */
+    font-weight: bold;
+    color: #007bff; /* Color principal */
+}
+
+/* ================================================= */
+/* Estilos de Controles de Entrada y Botones */
+/* ================================================= */
+
+QLineEdit, QComboBox, QDateEdit {
+    padding: 5px;
+    border: 1px solid #c8d0e0;
+    border-radius: 3px;
+    background-color: white;
+    min-height: 24px; 
+    color: #000;
+}
+
+QGroupBox {
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px; 
+    padding-top: 20px; 
+    border: 1px solid #c8d0e0;
+    border-radius: 5px;
+}
+
+/* Botones Principales (Agregar/Registrar) */
+QPushButton {
+    background-color: #007bff; /* Azul primario */
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+}
+QPushButton:hover {
+    background-color: #0056b3; /* Azul más oscuro al pasar el ratón */
+}
+QPushButton:pressed {
+    background-color: #004085;
+}
+
+/* Botones Secundarios (Buscar) */
+QPushButton#btnBuscarNotas, QPushButton#btnBuscarAsistencias, QPushButton#btnBuscarCursos, QPushButton#btnBuscarEstudiantes {
+    background-color: #6c757d; /* Gris */
+    color: white;
+}
+QPushButton#btnBuscarNotas:hover, QPushButton#btnBuscarAsistencias:hover, QPushButton#btnBuscarCursos:hover, QPushButton#btnBuscarEstudiantes:hover {
+    background-color: #5a6268;
+}
+
+/* ================================================= */
+/* Estilos de la Tabla */
+/* ================================================= */
+
+QTableWidget {
+    gridline-color: #e0e0e0;
+    border: 1px solid #c8d0e0;
+    selection-background-color: #cfe2ff; /* Azul claro para selección */
+    selection-color: #333;
+}
+
+QHeaderView::section { /* Encabezados de tabla */
+    background-color: #e9ecef; /* Fondo ligeramente gris */
+    padding: 5px;
+    border: 1px solid #c8d0e0;
+    font-weight: bold;
+    color: #333;
+}
+QLabel {
+    color: #000;
+}

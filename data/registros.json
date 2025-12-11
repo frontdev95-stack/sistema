@@ -1,0 +1,111 @@
+[
+    {
+        "estudiante_codigo": "EST001",
+        "curso_codigo": "MAT101",
+        "nota": 18.5,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST001",
+        "curso_codigo": "PRO301",
+        "nota": 20.0,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST002",
+        "curso_codigo": "MAT101",
+        "nota": 15.0,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST002",
+        "curso_codigo": "HIS201",
+        "nota": 17.5,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST003",
+        "curso_codigo": "PRO301",
+        "nota": 12.0,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST004",
+        "curso_codigo": "FIS101",
+        "nota": 19.0,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST005",
+        "curso_codigo": "MAT101",
+        "nota": 14.0,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST006",
+        "curso_codigo": "HIS201",
+        "nota": 16.0,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST007",
+        "curso_codigo": "PRO301",
+        "nota": 11.5,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST008",
+        "curso_codigo": "FIS101",
+        "nota": 18.0,
+        "tipo": "nota"
+    },
+    {
+        "estudiante_codigo": "EST001",
+        "curso_codigo": "MAT101",
+        "fecha": "2025-12-01",
+        "presente": true,
+        "tipo": "asistencia"
+    },
+    {
+        "estudiante_codigo": "EST001",
+        "curso_codigo": "MAT101",
+        "fecha": "2025-12-02",
+        "presente": true,
+        "tipo": "asistencia"
+    },
+    {
+        "estudiante_codigo": "EST002",
+        "curso_codigo": "MAT101",
+        "fecha": "2025-12-01",
+        "presente": false,
+        "tipo": "asistencia"
+    },
+    {
+        "estudiante_codigo": "EST003",
+        "curso_codigo": "PRO301",
+        "fecha": "2025-12-05",
+        "presente": true,
+        "tipo": "asistencia"
+    },
+    {
+        "estudiante_codigo": "EST004",
+        "curso_codigo": "FIS101",
+        "fecha": "2025-12-05",
+        "presente": true,
+        "tipo": "asistencia"
+    },
+    {
+        "estudiante_codigo": "EST005",
+        "curso_codigo": "MAT101",
+        "fecha": "2025-12-01",
+        "presente": true,
+        "tipo": "asistencia"
+    },
+    {
+        "estudiante_codigo": "EST001",
+        "curso_codigo": "PRO301",
+        "fecha": "2025-12-05",
+        "presente": true,
+        "tipo": "asistencia"
+    }
+]

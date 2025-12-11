@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "MAT101",
+        "nombre": "MATEMATICAS BASICAS",
+        "fecha_creacion": "2024-01-10",
+        "creditos": 4
+    },
+    {
+        "codigo": "HIS201",
+        "nombre": "HISTORIA UNIVERSAL",
+        "fecha_creacion": "2024-01-10",
+        "creditos": 3
+    },
+    {
+        "codigo": "PRO301",
+        "nombre": "PROGRAMACION I",
+        "fecha_creacion": "2024-01-12",
+        "creditos": 5
+    },
+    {
+        "codigo": "FIS101",
+        "nombre": "FISICA GENERAL",
+        "fecha_creacion": "2024-01-15",
+        "creditos": 4
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "codigo": "EST001",
+        "nombre": "JUAN PEREZ",
+        "email": "juan.perez@email.com",
+        "carrera": "Ingenieria",
+        "fecha_creacion": "2024-01-15",
+        "tipo": "estudiante"
+    },
+    {
+        "codigo": "EST002",
+        "nombre": "MARIA GARCIA",
+        "email": "maria.garcia@email.com",
+        "carrera": "Derecho",
+        "fecha_creacion": "2024-01-16",
+        "tipo": "estudiante"
+    },
+    {
+        "codigo": "EST003",
+        "nombre": "CARLOS LOPEZ",
+        "email": "carlos.lopez@email.com",
+        "carrera": "Arquitectura",
+        "fecha_creacion": "2024-01-20",
+        "tipo": "estudiante"
+    },
+    {
+        "codigo": "EST004",
+        "nombre": "ANA MARTINEZ",
+        "email": "ana.martinez@email.com",
+        "carrera": "Medicina",
+        "fecha_creacion": "2024-02-01",
+        "tipo": "estudiante"
+    },
+    {
+        "codigo": "EST005",
+        "nombre": "LUIS RODRIGUEZ",
+        "email": "luis.rodriguez@email.com",
+        "carrera": "Ingenieria",
+        "fecha_creacion": "2024-02-05",
+        "tipo": "estudiante"
+    },
+    {
+        "codigo": "EST006",
+        "nombre": "SOFIA HERNANDEZ",
+        "email": "sofia.hernandez@email.com",
+        "carrera": "Psicologia",
+        "fecha_creacion": "2024-02-10",
+        "tipo": "estudiante"
+    },
+    {
+        "codigo": "EST007",
+        "nombre": "MIGUEL TORRES",
+        "email": "miguel.torres@email.com",
+        "carrera": "Derecho",
+        "fecha_creacion": "2024-02-15",
+        "tipo": "estudiante"
+    },
+    {
+        "codigo": "EST008",
+        "nombre": "ELENA FLORES",
+        "email": "elena.flores@email.com",
+        "carrera": "Arquitectura",
+        "fecha_creacion": "2024-02-20",
+        "tipo": "estudiante"
+    }
+]
